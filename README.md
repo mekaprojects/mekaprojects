@@ -2,4 +2,4 @@
 - 👀 I’m interested in Metin2
 - 🌱 I’m currently learning C++, C#, Python
 - 💞️ I’m looking to collaborate on Metin2 Server Development
-- 📫 Discord: MEKA#3706
+- 📫 Discord: MEKA#1652
