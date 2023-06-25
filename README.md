@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mertozandugan
+- 👋 Hi, I’m @mekaprojects
 - 👀 I’m interested in Metin2
 - 🌱 I’m currently learning C++, C#, Python
 - 💞️ I’m looking to collaborate on Metin2 Server Development
-- 📫 Discord: MEKA#1652
+- 📫 Discord: mekaprojects
